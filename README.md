@@ -92,7 +92,7 @@ pruebas con la api
 		  
 		  
 		  
-#Modo de ejecutar con docker
+# Modo de ejecutar con docker
 
 Crea la imagen
 
