@@ -89,3 +89,20 @@ pruebas con la api
 
 		{message: "Alumno eliminado correctamente",
 		  "Se elimino el alumno con el id:" 1}
+		  
+		  
+		  
+#Modo de ejecutar con docker
+
+Crea la imagen
+
+	- docker build -t "nombre de imagen" .
+	
+Para ver las imagen
+
+	- docker images
+	
+Para correr la imagen
+
+	- docker run "nombre de imagen"
+
